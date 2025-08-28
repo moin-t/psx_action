@@ -863,3 +863,432 @@ Date,Open,High,Low,Close,Volume,Year,Month,Symbol,Sector,Company Name
 2025-08-27,78.1,79.36,70.12,70.89,179468,2025,8,ZAHID,Textile Composite,Zahidjee Textile Mills Limited
 2025-08-27,330.0,330.0,325.0,323.52,53,2025,8,ZIL,Food and Personal Care Products,ZIL Limited
 2025-08-27,18.0,18.2,17.5,17.75,669,2025,8,ZTL,Textile Weaving,Zephyr Textile Limited
+2025-08-28,11.38,11.98,11.01,11.55,18812,2025,8,786,Banks/INV. COS/Securities COS.,786 Investment Limited
+2025-08-28,1148.0,1148.0,1079.1,1088.24,73,2025,8,AABS,Sugar and Allied Industries,Al-Abbas Sugar Mills Limited
+2025-08-28,58.0,58.0,53.01,56.14,19085,2025,8,AATM,Textile Spinning,Ali Asghar Textile Mills Limited
+2025-08-28,182.99,182.99,178.1,178.92,174750,2025,8,ABL,Commercial Banks,Allied Bank Limited
+2025-08-28,1151.0,1190.0,1144.05,1149.99,24194,2025,8,ABOT,Pharmaceuticals,Abbot Laboatories (Pakistan) Limited
+2025-08-28,290.0,291.99,287.0,290.0,68856,2025,8,ACPL,Cement,Attock Cement (Pakistan) Limited
+2025-08-28,69.7,74.99,69.7,74.86,1531,2025,8,ADAMS,Sugar and Allied Industries,Adam Sugar Mills Limited
+2025-08-28,60.21,61.98,59.9,60.23,62934,2025,8,ADMM,Textile Composite,Artistic Denim Mills Limited
+2025-08-28,8.86,9.2,8.86,9.03,2174009,2025,8,AGHA,Engineering,Agha Steel Indunstries Limited
+2025-08-28,44.02,48.5,44.02,47.42,267880,2025,8,AGIC,Insurance,Askari General Inusrance Company Limited
+2025-08-28,141.0,147.49,137.0,143.28,117951,2025,8,AGIL,Automobile Parts and Accessories,Agriautos Industries Limited
+2025-08-28,80.01,81.4,77.2,78.16,561752,2025,8,AGL,Chemical,Agritech Limited
+2025-08-28,185.1,195.24,185.1,193.54,918242,2025,8,AGP,Pharmaceuticals,AGP Limited
+2025-08-28,9.67,9.79,9.4,9.57,1457036,2025,8,AGSML,Sugar and Allied Industries,Abdullah Shah Ghazi Sugar Mills Limited
+2025-08-28,401.99,404.01,400.0,403.55,8483,2025,8,AGTL,Automobile Assembler,Al-Ghazi Tractors Limited
+2025-08-28,13.28,13.75,13.15,13.49,29093154,2025,8,AHCL,Fertilizer,Arif Habib Corporation Limited
+2025-08-28,93.88,94.13,92.8,93.19,106601,2025,8,AHL,Banks/INV. COS/Securities COS.,Arif Habib Limited
+2025-08-28,71.5,72.01,69.5,71.07,812258,2025,8,AICL,Insurance,Adamjee Insurance Company Limited
+2025-08-28,148.5,154.5,148.15,149.75,3507785,2025,8,AIRLINK,Technoly and Commnunication,Air Link Communication Limited
+2025-08-28,76.51,76.89,75.0,75.34,3810527,2025,8,AKBL,Commercial Banks,Askari Bank Limited
+2025-08-28,186.0,189.98,186.0,187.05,1244,2025,8,AKDHL,Misc.,AKD Hospitality Limited
+2025-08-28,33.11,33.98,32.91,33.11,31825,2025,8,AKDSL,Banks/INV. COS/Securities COS.,AKD Securities Limited
+2025-08-28,53.0,53.0,53.0,53.0,14,2025,8,AKGL,Misc.,Al-Khair Gadoon Limited
+2025-08-28,9.9,10.33,9.9,10.11,718976,2025,8,ALAC,Insurance,Askari Life Assurance Company Limited
+2025-08-28,36.65,36.65,34.12,35.6,53006,2025,8,ALIFE,Insurance,Adamjee Life Assurance Company Limited
+2025-08-28,95.58,99.95,92.17,92.22,310,2025,8,ALNRS,Sugar and Allied Industries,Al-Noor Sugar Mills Limited
+2025-08-28,13.78,14.3,13.5,13.85,2668643,2025,8,ALTN,Power Generation and Distribution,Altern Energy Limited
+2025-08-28,3.99,4.0,3.81,3.92,940033,2025,8,AMTEX,Textile Spinning,Amtex Limited
+2025-08-28,12.35,12.45,12.2,12.4,443354,2025,8,ANL,Textile Composite,Azgard Nine Limited
+2025-08-28,17.29,17.29,16.5,17.29,330020,2025,8,ANSM,Sugar and Allied Industries,Ansari Sugar Mills Limtied
+2025-08-28,29.2,29.98,28.0,29.06,6586,2025,8,ANTM,Textile Composite,AN Textile Mills Limited
+2025-08-28,516.0,519.99,513.01,513.65,14462,2025,8,APL,Oil and Gas Marketing,Attock Petroleum Limited
+2025-08-28,35.35,39.0,35.35,38.5,605,2025,8,ARCTM,Textile Spinning,Arctic Textile Mills Limited
+2025-08-28,58.01,58.01,58.01,58.01,4,2025,8,ARPAK,Misc.,Arpak International Investment Limited
+2025-08-28,453.98,457.0,445.0,448.16,6122,2025,8,ARPL,Chemical,Archroma Pakistan Limited
+2025-08-28,9.63,9.63,9.22,9.36,8520,2025,8,ARUJ,Textile Composite,Aruj Industries Limited
+2025-08-28,20.7,20.7,18.63,18.63,7695167,2025,8,ASC,Food and Personal Care Products,Al-Shaheer Corporation Limited
+2025-08-28,28.0,28.02,26.5,28.02,61057,2025,8,ASHT,Textile Weaving,Ashfaq Textile Mills Limited
+2025-08-28,13.5,13.82,13.5,13.69,4725976,2025,8,ASL,Engineering,Aisha Steel Mills Limited
+2025-08-28,56.31,56.31,46.07,56.29,1012,2025,8,ASLCPS,Engineering,Aisha Steel Mills Ltd(Con.Cum.Pref.Share
+2025-08-28,24.04,26.0,24.04,24.06,3507,2025,8,ASLPS,Engineering,Aisha Steel Mills Limited (Preference Shares)
+2025-08-28,21.8,22.23,21.52,21.91,115240,2025,8,ASTL,Engineering,Amreli Steels Ltd.
+2025-08-28,33.1,34.89,31.8,32.7,34224,2025,8,ASTM,Textile Spinning,Asim Textile Mills Limited
+2025-08-28,250.01,253.0,250.0,250.89,34829,2025,8,ATBA,Automobile Parts and Accessories,Atlas Battery Limited
+2025-08-28,79.5,80.0,79.0,79.0,6590,2025,8,ATIL,Insurance,Atlas Insurance Limited
+2025-08-28,1222.1,1229.0,1220.0,1224.63,4492,2025,8,ATLH,Automobile Assembler,Atlas Honda Limited
+2025-08-28,653.0,658.0,650.99,652.48,421574,2025,8,ATRL,Refinery,Attock Refinery Limited
+2025-08-28,49.9,50.14,49.5,49.68,734233,2025,8,AVN,Technoly and Commnunication,Avanceon Limited
+2025-08-28,105.0,105.95,104.0,104.94,9891749,2025,8,BAFL,Commercial Banks,Bank Al-Falah Limited
+2025-08-28,235.0,235.0,210.0,221.52,934,2025,8,BAFS,Sugar and Allied Industries,Baba Farid Sugar Mills Limited
+2025-08-28,190.0,190.0,185.12,186.56,107922,2025,8,BAHL,Commercial Banks,Bank Al-Habib Limited
+2025-08-28,49.95,51.83,49.13,49.19,59786,2025,8,BAPL,Chemical,Bawany Air Product Limited
+2025-08-28,1535.01,1544.9,1506.01,1539.82,1445,2025,8,BATA,Leather and Tanneries,Bata Pakistan Limited
+2025-08-28,112.5,113.0,111.07,111.21,23522,2025,8,BCL,Engineering,Bolan Casting Limited
+2025-08-28,18.69,18.75,18.16,18.34,284789,2025,8,BECO,Engineering,Beco Steel Limited
+2025-08-28,123.0,123.1,120.5,121.89,880,2025,8,BELA,Automobile Parts and Accessories,Bela Automotive Limited
+2025-08-28,111.04,112.99,111.04,111.96,20965,2025,8,BERG,Chemical,Berger Paints Pakistan Limited
+2025-08-28,13.0,13.4,12.99,13.12,67602,2025,8,BFMOD,Modrabas,B.F. Modaraba
+2025-08-28,12.16,12.24,11.82,11.92,1044588,2025,8,BGL,Grass and Ceramics,Baluchistan Glass Limited
+2025-08-28,930.0,945.0,926.0,936.27,58,2025,8,BHAT,Textile Composite,Bhanero Textile Mills Limited
+2025-08-28,186.0,189.5,182.77,188.22,75713,2025,8,BIFO,Chemical,Biafo Industries Limited
+2025-08-28,23.4,23.49,23.1,23.47,19158,2025,8,BILF,Textile Spinning,Bilal Fibres Limited
+2025-08-28,36.29,36.3,35.72,36.23,1107172,2025,8,BIPL,Commercial Banks,Bankislami Pakistan Limited
+2025-08-28,97.88,97.88,93.8,94.16,4345137,2025,8,BNL,Food and Personal Care Products,Bunny's Limited
+2025-08-28,78.0,78.0,68.89,74.69,119389,2025,8,BNWM,Woollen,Bannu Woollen Mills Limited
+2025-08-28,25.9,25.96,25.3,25.96,664384,2025,8,BOK,Commercial Banks,Bank Of Khyber Limited
+2025-08-28,14.25,14.57,14.0,14.26,31924722,2025,8,BOP,Commercial Banks,Bank Of Punjab Limited
+2025-08-28,35.0,35.7,34.99,35.29,27994,2025,8,BPL,Oil and Gas Marketing,Burshane LPG (Pakistan) Limited
+2025-08-28,301.03,312.11,301.03,310.99,504,2025,8,BTL,Textile Composite,Blessed Textile Mills Limited
+2025-08-28,178.0,184.0,166.0,176.74,3100,2025,8,BUXL,Chemical,Buxly Paints Limited
+2025-08-28,567.0,570.0,563.01,566.44,12083,2025,8,BWCL,Cement,Bestway Cement Limited
+2025-08-28,184.0,184.0,179.51,180.19,66627,2025,8,BWHL,Automobile Parts and Accessories,Baluchistan Wheels Limited
+2025-08-28,39.4,39.4,39.4,38.02,1,2025,8,CASH,Banks/INV. COS/Securities COS.,Calcorp Limited
+2025-08-28,48.5,52.65,48.5,48.67,547,2025,8,CCM,Textile Spinning,Crescent Cotton Mills Limited
+2025-08-28,46.0,46.65,46.0,46.2,700,2025,8,CENI,Insurance,Century Insurance Company Limited
+2025-08-28,27.1,27.25,26.99,27.18,141402,2025,8,CEPB,Paper and Board,Century Paper and Board Mills Limited
+2025-08-28,68.65,73.73,68.65,70.05,14,2025,8,CHAS,Sugar and Allied Industries,Chashma Sugar Mills Limited.
+2025-08-28,23.21,23.21,22.01,22.61,1086662,2025,8,CHBL,Textile Composite,Chenab Limited
+2025-08-28,329.98,333.0,326.0,331.09,46027,2025,8,CHCC,Cement,Cherat Cement Company Limited
+2025-08-28,10.5,10.65,9.51,10.35,111337,2025,8,CJPL,JUTE,Crescent Jute Proudcts Limited
+2025-08-28,4.0,4.18,4.0,4.05,16674,2025,8,CLCPS,Textile Composite,Chenab Limited - Preference Shares
+2025-08-28,41.44,41.44,40.6,41.01,45990,2025,8,CLOV,Food and Personal Care Products,Clover Pakistan Limited
+2025-08-28,19.15,19.15,18.0,18.88,12923,2025,8,CLVL,Transport,Cordoba Logistics & Ventures Limited
+2025-08-28,6.92,7.07,6.92,6.98,8038945,2025,8,CNERGY,Refinery,Cnergyico PK  Limited
+2025-08-28,1286.0,1298.0,1285.2,1290.9,1692,2025,8,COLG,Chemical,Colgate Palmolive (Pakistan) Limited
+2025-08-28,87.5,89.0,87.0,88.57,5218836,2025,8,CPHL,Pharmaceuticals,Citi Pharma Ltd.
+2025-08-28,111.16,111.96,109.8,110.02,96018,2025,8,CPPL,Paper and Board,Cherat Packaging Limited.
+2025-08-28,21.21,21.44,21.0,21.07,81729,2025,8,CRTM,Textile Composite,Crescent Textile Mills Limited
+2025-08-28,103.78,104.4,102.26,102.54,167116,2025,8,CSAP,Engineering,Crescent Steel & Allied Products Limited
+2025-08-28,4.23,4.45,4.18,4.35,11611635,2025,8,CSIL,Insurance,Crescent Star Insurance Company Limited
+2025-08-28,6.05,6.19,6.01,6.06,204499,2025,8,CTM,Textile Spinning,Colony Textile Mills Limited
+2025-08-28,35.45,36.3,31.85,34.9,259430,2025,8,CWSM,Textile Spinning,Chakwal Spinning Mills Limited
+2025-08-28,37.55,37.55,35.65,36.4,77169,2025,8,CYAN,Insurance,Cyan Limited
+2025-08-28,102.0,105.0,101.05,102.44,3773,2025,8,DAAG,Chemical,Data Agro Limited
+2025-08-28,65.89,69.9,64.0,64.05,16326,2025,8,DADX,Engineering,Dadex Eternit Limited
+2025-08-28,8.1,8.1,7.61,7.78,209476,2025,8,DBCI,Cement,Dadabhoy Cement Industries Limited
+2025-08-28,12.6,13.05,12.6,12.89,6765123,2025,8,DCL,Cement,Dewan Cement Limited
+2025-08-28,32.25,32.39,32.2,32.25,322430,2025,8,DCR,Real Estate Investment Trust,Dolmen City Reit
+2025-08-28,16.31,17.76,16.07,16.52,164261,2025,8,DEL,Banks/INV. COS/Securities COS.,Dawood Equities Limited
+2025-08-28,33.69,34.0,33.41,33.7,1092969,2025,8,DFML,Automobile Assembler,Dewan Farooque Motors Limited
+2025-08-28,5.99,6.2,5.95,6.01,191947,2025,8,DFSM,Textile Spinning,Dewan Farooque Spinning Mills Limited
+2025-08-28,184.85,190.65,184.25,188.61,6110323,2025,8,DGKC,Cement,D.G. Khan Cement Company Limited
+2025-08-28,39.5,39.5,34.11,36.0,340,2025,8,DIIL,Misc.,Diamond Industries Limited
+2025-08-28,388.0,394.0,350.05,363.81,29655,2025,8,DLL,Banks/INV. COS/Securities COS.,Dawood Lawrancepur Limited
+2025-08-28,17.58,17.58,15.1,17.58,78935,2025,8,DMTM,Textile Spinning,Dewan Mushtaq Textile Mills Limited
+2025-08-28,15.05,15.05,15.0,15.0,23212,2025,8,DNCC,Cement,Dandot Cement Company Limited
+2025-08-28,35.43,35.43,34.5,35.07,242125,2025,8,DOL,Chemical,Descon Oxychem Limited
+2025-08-28,6.15,6.15,6.0,6.08,197769,2025,8,DSIL,Textile Spinning,D.S. Industires Limited
+2025-08-28,9.5,9.64,9.4,9.5,12065053,2025,8,DSL,Engineering,Dost Steels Limited
+2025-08-28,28.7,28.93,28.5,28.85,13822,2025,8,DWAE,Automobile Parts and Accessories,Dewan Automotive Engineering Limited
+2025-08-28,6.21,6.44,6.2,6.25,51760,2025,8,DWSM,Sugar and Allied Industries,Dewan Sugar Mills Limited
+2025-08-28,7.24,8.1,7.24,7.8,5783,2025,8,DWTM,Textile Spinning,Dewan Textile Mills Limited
+2025-08-28,287.49,292.9,277.0,280.56,46398,2025,8,DYNO,Chemical,Dynea Pakistan Limited
+2025-08-28,72.0,76.0,71.0,72.35,3253912,2025,8,ECOP,Misc.,Ecopack Limited
+2025-08-28,203.5,204.18,201.0,202.5,497168,2025,8,EFERT,Fertilizer,Engro Fertilizers Limited
+2025-08-28,129.94,129.94,129.89,130.0,114,2025,8,EFUG,Insurance,EFU General Insurance Limited
+2025-08-28,159.0,159.0,157.6,157.63,417,2025,8,EFUL,Insurance,EFU Life Assurance Limited
+2025-08-28,287.57,287.57,286.23,287.57,4369,2025,8,ELCM,Textile Spinning,Elahi Cotton Mills Limited
+2025-08-28,132.0,132.0,120.0,125.39,156,2025,8,ELSM,Textile Spinning,Ellcot  Spinning Mills Limited
+2025-08-28,60.21,62.0,60.03,60.2,9659,2025,8,EMCO,Cable and Electrical Goods,Emco Industries Limited
+2025-08-28,30.89,31.42,29.7,29.93,5107305,2025,8,EPCL,Chemical,Engro Polymer and Chemicals Limited
+2025-08-28,13.35,13.35,12.4,12.55,163086,2025,8,EPCLPS,Chemical,Engro Poly(PREF)
+2025-08-28,29.0,29.1,28.7,29.03,73773,2025,8,EPQL,Power Generation and Distribution,Engro Powergen Qadirpur Limited
+2025-08-28,5.8,6.6,5.8,6.09,173365,2025,8,ESBL,Banks/INV. COS/Securities COS.,Escorts Investment Bank Limited
+2025-08-28,749.5,750.0,738.0,739.96,9744,2025,8,EXIDE,Automobile Parts and Accessories,Exide Pakistan Limited
+2025-08-28,78.33,78.7,74.0,74.16,3641831,2025,8,FABL,Commercial Banks,Faysal Bank Limited
+2025-08-28,5.25,5.8,5.1,5.67,258072,2025,8,FANM,Modrabas,First Al-Noor Modarba
+2025-08-28,382.02,397.95,351.78,390.8,565,2025,8,FASM,Textile Composite,Faisal Spinning Mills Limited
+2025-08-28,120.0,120.49,116.06,116.8,1421108,2025,8,FATIMA,Fertilizer,Fatima Fertilizer Company Limited
+2025-08-28,50.85,51.49,50.71,51.07,4840398,2025,8,FCCL,Cement,Fauji Cement Company Limited
+2025-08-28,6.99,6.99,6.16,6.24,197820,2025,8,FCEL,Banks/INV. COS/Securities COS.,First Capital Equites Limited
+2025-08-28,86.15,87.9,85.02,85.35,561006,2025,8,FCEPL,Food and Personal Care Products,Frieslandcampins Engro Foods Limited
+2025-08-28,13.85,13.85,13.32,13.55,2196,2025,8,FCIBL,Banks/INV. COS/Securities COS.,First Credit & Invest Bank Limited
+2025-08-28,2.89,3.24,2.89,3.12,17595390,2025,8,FCSC,Banks/INV. COS/Securities COS.,First Capital Securites Corporation Limited
+2025-08-28,24.9,24.9,22.1,24.38,681,2025,8,FECM,Modrabas,First Elite Capital Modaraba
+2025-08-28,89.5,90.0,83.01,88.35,31849,2025,8,FECTC,Cement,Fecto Cement Limited
+2025-08-28,6.21,6.6,6.2,6.43,2759,2025,8,FEM,Modrabas,First Equity Modarba
+2025-08-28,411.03,415.48,401.0,410.81,101966,2025,8,FEROZ,Pharmaceuticals,Ferozsons Laboratories Limited
+2025-08-28,440.0,442.0,434.0,436.44,1235448,2025,8,FFC,Fertilizer,Fauji Fertilizer Company Limited
+2025-08-28,16.8,16.96,16.37,16.79,14945876,2025,8,FFL,Food and Personal Care Products,Fauji Foods Limited
+2025-08-28,8.2,8.2,7.74,7.77,10116,2025,8,FFLM,Modrabas,First Fidelity Leasing Modaraba
+2025-08-28,29.05,30.88,29.05,29.8,30364,2025,8,FHAM,Modrabas,First Habib Modarba Limited
+2025-08-28,8.88,9.4,8.56,8.91,190840,2025,8,FIBLM,Modrabas,First IBL Modaraba
+2025-08-28,241.0,241.0,211.2,211.38,335,2025,8,FIL,Leather and Tanneries,Fateh Industries Limited.
+2025-08-28,49.9,49.9,47.6,48.83,262387,2025,8,FLYNG,Cement,Flying Cement Company Limited
+2025-08-28,73.1,80.48,73.1,78.44,120473,2025,8,FML,Textile Composite,Feroze 1888 Mills Limited
+2025-08-28,4.3,5.04,4.29,5.04,42947547,2025,8,FNEL,Banks/INV. COS/Securities COS.,First National Equities Limited
+2025-08-28,4.32,4.4,4.27,4.36,130387,2025,8,FPJM,Modrabas,First Punjab Modarba
+2025-08-28,10.45,12.55,10.45,12.29,17077,2025,8,FPRM,Modrabas,First Paramount Modaraba
+2025-08-28,43.8,43.8,41.1,42.02,7800,2025,8,FRCL,Grass and Ceramics,Frontier Ceramics Limited
+2025-08-28,46.49,46.7,45.7,46.0,3059,2025,8,FRSM,Sugar and Allied Industries,Faran Sugar Mills Limited
+2025-08-28,115.0,115.0,115.0,115.23,94,2025,8,FSWL,Textile Composite,Fateh Sports Wear Limited
+2025-08-28,18.03,18.9,18.02,18.87,1400,2025,8,FTMM,Modrabas,First Treet Manufacturing Modarba
+2025-08-28,12.15,12.15,12.15,13.49,30,2025,8,FTSM,Modrabas,First Tri-Star Modarba
+2025-08-28,283.9,284.9,275.0,277.82,448,2025,8,FZCM,Textile Composite,Fazal Cloth Mills Limited
+2025-08-28,435.99,435.99,428.0,434.51,15972,2025,8,GADT,Textile Spinning,Gadoon Textile Mills Limited
+2025-08-28,28.1,28.5,27.99,28.08,33008,2025,8,GAMON,Misc.,Gammon Pakistan Limited
+2025-08-28,127.0,127.49,126.03,126.34,71041,2025,8,GATI,Synthetic and Rayon,Gatron Industries Limited
+2025-08-28,34.68,35.34,34.68,34.97,295693,2025,8,GATM,Textile Composite,Gul Ahmed Textile Mills Limited
+2025-08-28,27.55,28.05,27.55,27.78,2136538,2025,8,GCIL,Chemical,Ghani Chemical Industries Limited
+2025-08-28,37.02,37.47,37.02,37.14,1370,2025,8,GEMSPNL,Technoly and Commnunication,Supernet Limited
+2025-08-28,13.74,13.74,12.84,12.99,37715,2025,8,GFIL,Textile Composite,Ghazi Fabrics International Limited
+2025-08-28,11.95,12.85,11.55,12.2,7991560,2025,8,GGGL,Grass and Ceramics,Ghani Global Glass Limited
+2025-08-28,24.0,24.17,23.25,24.04,5741941,2025,8,GGL,Chemical,Ghani Global Holdings Limited
+2025-08-28,42.72,43.0,42.53,42.72,244742,2025,8,GHGL,Grass and Ceramics,Ghani Glass Limited
+2025-08-28,812.0,848.0,812.0,829.01,667003,2025,8,GHNI,Automobile Assembler,Ghandhara Industries Limited
+2025-08-28,395.0,405.0,394.0,403.03,675528,2025,8,GLAXO,Pharmaceuticals,GlaxoSmithKline (Pakistan) Limited
+2025-08-28,243.11,243.11,225.1,227.02,3908,2025,8,GLPL,Food and Personal Care Products,Gillette Pakistan Limited
+2025-08-28,136.5,136.65,114.53,131.43,344,2025,8,GOC,Misc.,GOC (Pak) Limited.
+2025-08-28,20.57,20.57,19.9,20.21,120361,2025,8,GRR,Real Estate Investment Trust,Globe Residency Reit
+2025-08-28,18.01,19.49,18.01,18.46,2525,2025,8,GRYL,Leasing Companies,Grays Leasing Limited
+2025-08-28,5.9,6.22,5.6,6.0,112716,2025,8,GSPM,Textile Spinning,Gulshan Spinning Mills Limited
+2025-08-28,46.87,47.35,46.2,46.38,221131,2025,8,GTYR,Automobile Parts and Accessories,General Tyre and Rubber Co. of Pakistan Limited
+2025-08-28,10.88,11.3,10.05,10.24,34805,2025,8,GUSM,Textile Spinning,Gulistan Spinning Mills Limited
+2025-08-28,65.57,65.57,64.52,64.9,4167,2025,8,GVGL,Grass and Ceramics,Ghani Value Glass Limited
+2025-08-28,51.11,52.79,51.0,51.98,766377,2025,8,GWLC,Cement,Gharibwal Cement Limited
+2025-08-28,82.0,82.64,81.61,81.73,1510,2025,8,HABSM,Sugar and Allied Industries,Habib Sugar Mills Limited
+2025-08-28,21.67,22.6,21.67,21.91,7037,2025,8,HAEL,Textile Composite,Hala Enterprises Limited
+2025-08-28,355.0,355.0,355.0,385.0,1,2025,8,HAFL,Textile Composite,Hafiz Limited
+2025-08-28,871.0,871.0,853.01,859.93,94395,2025,8,HALEON,Pharmaceuticals,Haleon Pakistan Limited
+2025-08-28,10.8,10.99,10.51,10.82,6761189,2025,8,HASCOL,Oil and Gas Marketing,Hascol Petroleum Limited
+2025-08-28,255.51,256.87,247.0,248.47,2483866,2025,8,HBL,Commercial Banks,Habib Bank Limited
+2025-08-28,290.03,296.8,289.1,291.28,626476,2025,8,HCAR,Automobile Assembler,Honda Atlas Cars (Pakistan) Limited
+2025-08-28,13.12,13.5,13.12,13.37,102508,2025,8,HGFA,Close End Mutual Funds,HBL Growth Fund
+2025-08-28,15.69,16.75,15.0,15.43,1199570,2025,8,HICL,Insurance,Habib Insurance Company Limited
+2025-08-28,5.45,5.52,5.4,5.5,619788,2025,8,HIFA,Close End Mutual Funds,HBL Investment Fund
+2025-08-28,527.0,554.98,527.0,545.0,17140,2025,8,HINO,Automobile Assembler,HinoPak Motors Limited
+2025-08-28,1203.6,1218.8,1122.5,1173.05,379732,2025,8,HINOON,Pharmaceuticals,Highnoon Laboratories Limited
+2025-08-28,5.25,5.34,5.14,5.17,459393,2025,8,HIRAT,Textile Spinning,Hira Textile Mills Limited
+2025-08-28,116.0,118.45,115.0,115.95,135498,2025,8,HMB,Commercial Banks,Habib Metropolitan Bank Limited
+2025-08-28,31.98,31.98,31.8,31.09,351,2025,8,HRPL,Sugar and Allied Industries,Habib Rice Product Limited.
+2025-08-28,45.77,46.0,45.4,45.73,252313,2025,8,HTL,Oil and Gas Marketing,Hi-Tech Lubricants Limited
+2025-08-28,164.25,166.0,162.5,162.85,3138713,2025,8,HUBC,Power Generation and Distribution,Hub Power Company Limited
+2025-08-28,13.77,14.44,13.74,14.33,5395630,2025,8,HUMNL,Technoly and Commnunication,Hum Network Limited
+2025-08-28,31.3,31.3,27.0,27.1,2350,2025,8,HUSI,Textile Composite,Husein Industries Limited
+2025-08-28,17.0,18.49,16.99,18.49,2053705,2025,8,HWQS,Sugar and Allied Industries,Haseeb Waqas Sugar Mills Limited
+2025-08-28,325.0,325.0,305.0,305.0,444,2025,8,IBFL,Synthetic and Rayon,Ibrahim Fibre Limited
+2025-08-28,61.38,61.98,61.0,61.23,80067,2025,8,IBLHL,Pharmaceuticals,IBL HealthCare Limited
+2025-08-28,11.56,12.07,11.56,12.0,3419,2025,8,ICCI,Textile Weaving,ICC Industries Limited
+2025-08-28,8.18,8.3,7.75,7.88,1842087,2025,8,ICIBL,Banks/INV. COS/Securities COS.,Invest Capital Investment Bank Limited
+2025-08-28,89.02,90.0,87.1,89.97,12699,2025,8,ICL,Chemical,Ittehad Chemical Limited
+2025-08-28,22.58,24.27,22.35,22.75,265129,2025,8,IDRT,Textile Spinning,Idrees Textile Mills Limited
+2025-08-28,21.01,22.6,21.0,22.22,4328,2025,8,IDSM,Textile Spinning,Ideal Spinning Mills Limited
+2025-08-28,179.0,181.99,177.0,177.06,13723,2025,8,IDYM,Textile Spinning,Indus Dyeing Manufacturing Company Limited
+2025-08-28,299.88,306.0,296.37,303.64,29197,2025,8,IGIHL,Insurance,IGI Holdings Limited
+2025-08-28,20.5,20.94,20.5,20.5,1501,2025,8,IGIL,Insurance,IGI Life Insurance Company Limited
+2025-08-28,71.0,71.0,69.9,70.54,294928,2025,8,ILP,Textile Composite,Interloop Limited
+2025-08-28,27.51,27.74,27.26,27.43,938814,2025,8,IMAGE,Synthetic and Rayon,Image Pakistan Limited
+2025-08-28,22.43,22.5,20.35,22.45,1527,2025,8,IML,Banks/INV. COS/Securities COS.,Imperial Mills Limited
+2025-08-28,2364.75,2388.0,2361.0,2372.35,55740,2025,8,INDU,Automobile Assembler,Indus Motor Company Limited
+2025-08-28,201.01,210.0,196.6,201.03,602741,2025,8,INIL,Engineering,International Industries Limited
+2025-08-28,42.0,44.0,40.25,41.67,36399,2025,8,INKL,Textile Composite,International Knitwear Limited
+2025-08-28,2150.1,2179.9,2150.1,2162.66,17,2025,8,ISIL,Food and Personal Care Products,Ismail Industries Limited
+2025-08-28,105.4,108.75,105.01,108.03,309299,2025,8,ISL,Engineering,International Steels Limited
+2025-08-28,8.76,9.2,8.76,8.97,618856,2025,8,ITTEFAQ,Engineering,Ittefaq Iron Industries Limited
+2025-08-28,31.25,33.11,31.25,32.7,6069,2025,8,JATM,Textile Spinning,J.A. Textile Mills Limited
+2025-08-28,98.7,106.38,96.0,106.38,290088,2025,8,JDMT,Textile Spinning,Janana-de-Malucho Textile Mills Limited
+2025-08-28,903.02,939.99,903.02,914.0,323,2025,8,JDWS,Sugar and Allied Industries,J.D.W. Sugar Mills Limited
+2025-08-28,79.25,83.49,78.0,82.36,325475,2025,8,JGICL,Insurance,Jubilee General Insurance Company Limited
+2025-08-28,255.01,279.8,255.01,265.96,374,2025,8,JKSM,Textile Spinning,J.K. Spinning Mills Limited
+2025-08-28,174.0,174.0,169.19,169.62,6607,2025,8,JLICL,Insurance,Jubilee Life Insurance Company Limited
+2025-08-28,13.99,13.99,13.25,13.74,858058,2025,8,JSBL,Commercial Banks,JS Bank Limited
+2025-08-28,24.84,25.25,22.85,23.4,2789967,2025,8,JSCL,Banks/INV. COS/Securities COS.,Jahangir Siddiqui Company Limited
+2025-08-28,12.5,13.45,12.25,12.49,39980,2025,8,JSCLPSA,Banks/INV. COS/Securities COS.,Jahangir Sidd(PREF)
+2025-08-28,144.0,144.0,144.0,139.16,152,2025,8,JSGCL,Banks/INV. COS/Securities COS.,JS Global Capital Limited
+2025-08-28,31.99,32.7,30.23,30.5,24395,2025,8,JSIL,Banks/INV. COS/Securities COS.,JS Investments Limited
+2025-08-28,52.0,57.65,50.67,54.65,189173,2025,8,JSML,Sugar and Allied Industries,Jauharabad Sugar Mills Limited
+2025-08-28,47.8,51.17,46.0,51.17,58080,2025,8,JUBS,Textile Composite,Jubilee Spinning and Weaving Mills Limited
+2025-08-28,79.8,80.79,78.5,79.41,123808,2025,8,JVDC,Property,Javedan Corporation Limited
+2025-08-28,35.31,35.83,35.31,35.7,144749,2025,8,KAPCO,Power Generation and Distribution,Kot Addu Power Company Limited
+2025-08-28,166.0,166.0,165.0,165.24,117,2025,8,KCL,Grass and Ceramics,Karam Ceramics Limited
+2025-08-28,5.01,5.2,4.98,5.17,50234110,2025,8,KEL,Power Generation and Distribution,K-Electric Limited
+2025-08-28,464.8,464.8,456.0,457.57,6599,2025,8,KHTC,Tobacco,Khyber Tobacco Company Limited
+2025-08-28,1490.01,1573.0,1435.01,1465.27,270,2025,8,KHYT,Textile Composite,Khyber Textile Mills Limited
+2025-08-28,84.0,85.0,82.0,82.77,11933,2025,8,KML,Textile Composite,Kohinoor Mills Limited
+2025-08-28,99.2,100.51,98.1,99.37,482979,2025,8,KOHC,Cement,Kohat Cement Limited
+2025-08-28,22.5,22.5,22.01,22.31,104678,2025,8,KOHE,Power Generation and Distribution,Kohinoor Energy Limited
+2025-08-28,9.3,10.34,9.25,10.06,562506,2025,8,KOHP,Power Generation and Distribution,Kohinoor Power Company Limited
+2025-08-28,62.7,64.9,61.55,62.79,63868,2025,8,KOHTM,Textile Spinning,Kohat Textile Mills Limited
+2025-08-28,13.5,13.59,13.0,13.14,58103,2025,8,KOIL,Textile Composite,Kohinoor Industries Limited
+2025-08-28,6.72,6.9,6.6,6.75,11563372,2025,8,KOSM,Textile Spinning,Kohinoor Spinning Mills Limited
+2025-08-28,225.0,229.44,223.0,224.06,127748,2025,8,KSBP,Engineering,K.S.B. Pumps Co. Limited
+2025-08-28,9.31,10.0,9.31,9.95,1195,2025,8,KSTM,Textile Spinning,Khalid Siraj Textile Mills Limited
+2025-08-28,247.5,250.0,245.0,245.38,27182,2025,8,KTML,Textile Composite,Kohinoor Textile Mills Limited
+2025-08-28,326.5,327.97,321.12,326.39,70742,2025,8,LCI,Chemical,Lucky Core Industries Limited
+2025-08-28,47.89,49.95,46.0,49.24,30489,2025,8,LEUL,Leather and Tanneries,Leather Up Industries Limited
+2025-08-28,15.45,15.65,15.31,15.47,608627,2025,8,LOADS,Automobile Parts and Accessories,Loads Limited
+2025-08-28,21.66,21.78,21.1,21.6,261517,2025,8,LOTCHEM,Chemical,Lotte Chemical Pakistan Limited
+2025-08-28,112.0,112.99,109.0,110.05,28835,2025,8,LPGL,Chemical,Leiner Pak Gelatine Limited
+2025-08-28,26.7,27.0,26.3,26.5,178795,2025,8,LPL,Power Generation and Distribution,Lalpir Power Limited
+2025-08-28,415.0,423.5,414.63,418.26,1560131,2025,8,LUCK,Cement,Lucky Cement Limited
+2025-08-28,33.85,34.49,33.0,33.06,304882,2025,8,MACFL,Misc.,Macpac Films Limited
+2025-08-28,392.2,409.0,387.0,399.15,53683,2025,8,MACTER,Pharmaceuticals,Macter International Limited
+2025-08-28,622.5,625.0,620.7,622.35,436998,2025,8,MARI,Oil and Gas Exploration,Mari Petroleum Company Limited
+2025-08-28,353.0,354.99,348.0,349.28,219003,2025,8,MCB,Commercial Banks,MCB Bank Limited
+2025-08-28,3.48,3.85,3.39,3.59,9385765,2025,8,MDTL,Technoly and Commnunication,Media Times Limited
+2025-08-28,395.0,399.0,393.0,395.0,923414,2025,8,MEBL,Commercial Banks,Meezan Bank Limited
+2025-08-28,364.95,364.95,338.95,344.31,685,2025,8,MEHT,Textile Composite,Mehmood Textile Mills Limited
+2025-08-28,11.9,11.9,11.5,11.56,247575,2025,8,MERIT,Paper and Board,Merit Packaging Limited
+2025-08-28,209.99,211.88,208.0,208.61,30543,2025,8,MFFL,Food and Personal Care Products,Mitchells Fruit Farms Limited
+2025-08-28,50.99,50.99,49.0,49.02,122495,2025,8,MFL,Food and Personal Care Products,Matco Foods Limited
+2025-08-28,43.29,43.49,41.7,42.03,241496,2025,8,MIRKS,Sugar and Allied Industries,Mirpurkhas Sugar Mills Limited
+2025-08-28,94.88,96.25,93.14,95.86,3784353,2025,8,MLCF,Cement,Maple Leaf Cement Factory Limited
+2025-08-28,41.2,41.9,41.08,41.5,14617,2025,8,MQTM,Textile Spinning,Maqbool Textile Mills Limited
+2025-08-28,67.1,69.25,67.1,67.53,7706,2025,8,MRNS,Sugar and Allied Industries,Mehran Sugar Mills Limited
+2025-08-28,14.04,14.19,13.6,13.73,101483,2025,8,MSCL,Engineering,Metropolitan Steel Corporation Limited
+2025-08-28,65.99,65.99,63.13,63.5,16203,2025,8,MSOT,Textile Composite,Masood Textile Mills Limited
+2025-08-28,575.0,576.0,570.0,572.91,45135,2025,8,MTL,Automobile Assembler,Millat Tractors Limited
+2025-08-28,75.1,75.76,72.0,73.43,2497159,2025,8,MUGHAL,Engineering,Mughal Iron and Steel Industries Limited
+2025-08-28,1025.0,1055.0,1010.0,1034.87,8718,2025,8,MUREB,Food and Personal Care Products,Murree Brewery Company Limited
+2025-08-28,45.5,48.0,44.51,45.86,30148,2025,8,MWMP,Misc.,Mandviwala Mauser Plastic Industries Limited
+2025-08-28,376.1,379.98,370.0,370.85,237310,2025,8,NATF,Food and Personal Care Products,National Foods Limited
+2025-08-28,149.0,151.5,145.1,149.03,9467167,2025,8,NBP,Commercial Banks,National Bank Of Pakistan
+2025-08-28,45.52,46.5,45.0,45.12,186273,2025,8,NCL,Textile Composite,Nishat Chunian Limited
+2025-08-28,12.42,13.26,12.42,13.25,3097,2025,8,NCML,Textile Spinning,Nazir Cotton Mills Limited
+2025-08-28,27.0,27.65,27.0,27.2,159561,2025,8,NCPL,Power Generation and Distribution,Nishat Chunian Power Limited
+2025-08-28,8290.1,8440.0,8012.02,8370.21,344,2025,8,NESTLE,Food and Personal Care Products,Nestle Pakistan Limited
+2025-08-28,141.4,141.98,139.9,140.19,535673,2025,8,NETSOL,Technoly and Commnunication,NetSol Technologies Limited
+2025-08-28,11.85,11.98,11.5,11.9,25064,2025,8,NEXT,Banks/INV. COS/Securities COS.,Next Capital Limited
+2025-08-28,169.99,169.99,165.03,165.68,10531,2025,8,NICL,Chemical,Nimir Industrial Chemicals Limited
+2025-08-28,145.0,146.5,144.25,146.16,309091,2025,8,NML,Textile Composite,Nishat Mills Limited
+2025-08-28,80.51,85.0,80.51,81.03,1411,2025,8,NONS,Sugar and Allied Industries,Noon Sugar Mills Limited
+2025-08-28,40.02,40.1,38.88,39.02,226255,2025,8,NPL,Power Generation and Distribution,Nishat Power Limited
+2025-08-28,267.1,269.0,260.0,261.04,866262,2025,8,NRL,Refinery,National Refinery Limited
+2025-08-28,33.0,33.29,32.6,32.76,318116,2025,8,NRSL,Chemical,Nimir Resins Limited
+2025-08-28,113.5,113.5,112.0,114.5,8,2025,8,NSRM,Synthetic and Rayon,National Silk and Rayon Mills Limited
+2025-08-28,8.8,9.05,8.8,8.9,138364,2025,8,OBOY,Oil and Gas Marketing,Oilboy Engergy Limited
+2025-08-28,54.0,54.0,53.0,53.45,356760,2025,8,OCTOPUS,Technoly and Commnunication,Octopus Digital Limited
+2025-08-28,260.53,262.0,259.9,261.24,2197621,2025,8,OGDC,Oil and Gas Exploration,Oil and Gas Development Company Limited
+2025-08-28,46.75,46.75,45.0,45.99,40340,2025,8,OLPL,Banks/INV. COS/Securities COS.,Orix Leasing Pakistan Limited
+2025-08-28,21.3,21.94,21.26,21.69,17662,2025,8,OLPM,Modrabas,OLP Modaraba
+2025-08-28,36.02,41.0,36.02,39.63,7,2025,8,OML,Misc.,Olympia Mills Limited
+2025-08-28,11.1,11.1,10.9,11.05,43147,2025,8,ORM,Modrabas,Orient Rental Mod
+2025-08-28,261.86,262.9,255.62,258.85,38102,2025,8,OTSU,Pharmaceuticals,Otsuka Pakistan Limited
+2025-08-28,163.0,163.0,154.0,154.95,447524,2025,8,PABC,Misc.,Pakistan Aluminium Beverage Cans Limited
+2025-08-28,7.1,8.06,6.82,8.06,71482279,2025,8,PACE,Property,Pace (Pakistan) Limited
+2025-08-28,45.3,47.3,45.21,46.83,51186186,2025,8,PAEL,Cable and Electrical Goods,Pak Elektron Limited
+2025-08-28,209.98,209.98,202.55,206.0,5078,2025,8,PAKD,Technoly and Commnunication,Pak Datacom Limited
+2025-08-28,249.5,254.56,244.0,247.09,78952,2025,8,PAKOXY,Chemical,Pakistan Oxygen Limited
+2025-08-28,14.65,14.8,14.51,14.7,427528,2025,8,PAKRI,Insurance,Pakistan Reinsurance Company Limited
+2025-08-28,1322.01,1330.0,1315.0,1327.95,76161,2025,8,PAKT,Tobacco,Pakistan Tobacco Company Limited
+2025-08-28,2.8,3.13,2.77,2.95,32265461,2025,8,PASL,Banks/INV. COS/Securities COS.,Pervez Ahmed Consultancy Services Limited
+2025-08-28,8.0,8.4,8.0,8.1,82142,2025,8,PASM,Textile Composite,Paramount Spinning Mills Limited
+2025-08-28,176.12,179.8,175.2,177.98,25189,2025,8,PCAL,Cable and Electrical Goods,Pakistan Cables Limited
+2025-08-28,605.33,664.99,605.33,615.67,1566,2025,8,PECO,Engineering,Pakistan Engineering Company Limited
+2025-08-28,19.55,20.06,17.71,19.43,33723,2025,8,PGLC,Leasing Companies,Pak Gulf Leasing Company Limited
+2025-08-28,11.01,12.16,11.0,12.16,37481113,2025,8,PIBTL,Transport,Pakistan International Bulk Terminal Limited
+2025-08-28,41.0,43.5,41.0,42.07,198335,2025,8,PICT,Transport,Pakistan International Container Terminal Limited
+2025-08-28,5.75,5.91,5.62,5.75,227139,2025,8,PIL,Insurance,PICIC Insurance Limited
+2025-08-28,28.99,31.33,25.63,25.79,70752,2025,8,PIM,Modrabas,Popular Islamic Modaraba
+2025-08-28,8.99,9.48,8.6,9.05,1037490,2025,8,PINL,Insurance,Premier Insurance Limited
+2025-08-28,241.0,246.75,239.3,246.04,233336,2025,8,PIOC,Cement,Pioneer Cement Limited
+2025-08-28,10.14,10.8,9.85,10.5,30408,2025,8,PKGI,Insurance,Pakistan General Insurance Company Limited
+2025-08-28,127.99,127.99,126.0,126.08,2295,2025,8,PKGP,Power Generation and Distribution,PAKGEN Power Limited
+2025-08-28,680.0,694.99,680.0,680.0,1679,2025,8,PKGS,Paper and Board,Packages Limited
+2025-08-28,1302.0,1302.0,1301.93,1301.93,1970,2025,8,PMPK,Tobacco,Philip Morris (Pakistan) Limited
+2025-08-28,310.45,345.0,310.45,344.94,11,2025,8,PMRS,Sugar and Allied Industries,Premier Sugar Mills and Distillery Company Limited
+2025-08-28,420.0,430.0,415.3,427.79,18041,2025,8,PNSC,Transport,Pakistan National Shipping Corporation Limited
+2025-08-28,663.0,663.99,657.0,661.7,123361,2025,8,POL,Oil and Gas Exploration,Pakistan Oilfields Limited
+2025-08-28,202.0,206.9,202.0,202.34,1171,2025,8,POML,Vanaspati and Allied Industry,Punjab Oil Mills Limited
+2025-08-28,15.79,15.95,15.67,15.9,3464256,2025,8,POWER,Cement,Power Cement Limited
+2025-08-28,26.0,27.6,23.0,23.96,3521,2025,8,POWERPS,Cement,Power Cement PREF
+2025-08-28,177.15,178.52,176.12,177.54,2453372,2025,8,PPL,Oil and Gas Exploration,Pakistan Petroleum Limited
+2025-08-28,176.1,183.0,176.0,178.53,47823,2025,8,PPP,Paper and Board,Pakistan Paper Prouducts Limited
+2025-08-28,16.5,16.5,15.0,15.63,12038,2025,8,PPVC,Chemical,Pakistan PVC Limited
+2025-08-28,41.0,41.5,40.7,40.91,1721895,2025,8,PREMA,Food and Personal Care Products,At-Tahur Limited
+2025-08-28,31.06,31.2,30.07,30.39,11458147,2025,8,PRL,Refinery,Pakistan Refinery Limited
+2025-08-28,911.01,925.0,911.01,921.98,141,2025,8,PSEL,Misc.,Pakistan Services Limited
+2025-08-28,400.0,400.0,396.25,396.86,1746717,2025,8,PSO,Oil and Gas Marketing,Pakistan State Oil Company Limited
+2025-08-28,32.54,32.75,32.11,32.61,1753872,2025,8,PSX,Banks/INV. COS/Securities COS.,Pakistan Stock Exchange Limited
+2025-08-28,23.4,23.7,22.31,23.09,10966595,2025,8,PTC,Technoly and Commnunication,Pakistan Telecommunication Company Limited
+2025-08-28,53.0,53.84,52.53,52.77,24957,2025,8,PTL,Automobile Parts and Accessories,Panther Tyres Ltd.
+2025-08-28,16.65,17.0,16.19,16.48,40936,2025,8,QUET,Textile Composite,Quetta Textile Mills Limited
+2025-08-28,8.5,8.58,8.32,8.45,1458411,2025,8,QUICE,Food and Personal Care Products,Quice Food Limited
+2025-08-28,562.98,562.98,462.05,495.93,319,2025,8,RCML,Textile Spinning,Reliance Cotton Spinning Mills Limited
+2025-08-28,25.8,25.8,25.8,25.69,6,2025,8,REDCO,Textile Composite,Redco Textiles Limited
+2025-08-28,106.05,106.05,106.05,111.23,2,2025,8,REWM,Textile Composite,Reliance Weaving Mills Limited
+2025-08-28,12.6,13.97,12.0,13.4,609984,2025,8,RICL,Insurance,Reliance Insurance Company Limited
+2025-08-28,9520.0,9600.0,9511.0,9555.02,117,2025,8,RMPL,Food and Personal Care Products,Rafhan Maize Products Limited
+2025-08-28,20.67,21.45,20.5,20.62,426772,2025,8,RPL,Paper and Board,Roshan Packages Limited
+2025-08-28,12.75,13.9,12.75,13.67,10485,2025,8,RUBY,Textile Spinning,Ruby Textile Mills Limited
+2025-08-28,31.51,35.05,31.51,34.93,16099,2025,8,RUPL,Synthetic and Rayon,Rupali Polyester Limited
+2025-08-28,28.0,28.0,26.0,26.72,1325,2025,8,SAIF,Textile Spinning,Saif Textile Mills Limited
+2025-08-28,64.69,64.69,61.21,62.54,3827,2025,8,SANSM,Sugar and Allied Industries,Sanghar Sugar Mills Limited
+2025-08-28,1435.0,1435.0,1370.0,1370.0,73,2025,8,SAPT,Textile Composite,Sapphire Textile Mills Limited
+2025-08-28,76.0,81.0,75.18,77.24,7162,2025,8,SARC,Chemical,Sardar Chemical Industries Limited
+2025-08-28,209.0,209.0,190.2,199.83,1212,2025,8,SASML,Sugar and Allied Industries,Sind Abadgar Sugar Mills Limited
+2025-08-28,1496.01,1644.75,1496.01,1644.75,737765,2025,8,SAZEW,Automobile Assembler,Sazgar Engineering  Works Limited
+2025-08-28,9.02,9.1,8.95,9.1,220033,2025,8,SBL,Commercial Banks,Samba Bank Limited
+2025-08-28,78.91,79.0,78.0,78.5,43928,2025,8,SCBPL,Commercial Banks,Standard Chartered Bank Limited
+2025-08-28,329.0,329.0,321.01,325.03,65,2025,8,SCL,Food and Personal Care Products,Shield Corporation Limited
+2025-08-28,109.01,114.5,108.3,110.97,6504927,2025,8,SEARL,Pharmaceuticals,The Searle Company Limited
+2025-08-28,14.5,15.9,14.0,14.6,14261,2025,8,SEL,Power Generation and Distribution,Sitara Energy Limited
+2025-08-28,175.0,175.99,173.6,174.13,15951,2025,8,SEPL,Paper and Board,Security Paper Limited
+2025-08-28,22.97,22.97,20.65,21.78,34430,2025,8,SERT,Textile Spinning,Service Industries Textile Limited
+2025-08-28,1048.02,1087.98,1048.02,1075.91,81,2025,8,SFL,Textile Composite,Sapphire Fibers Limited
+2025-08-28,93.2,93.2,86.52,88.28,818646,2025,8,SGF,Leather and Tanneries,Service GlobalFootwear Limited
+2025-08-28,12.02,12.09,11.8,12.0,26901,2025,8,SGPL,Power Generation and Distribution,S.G. Power Limited
+2025-08-28,45.5,45.5,42.0,43.54,332,2025,8,SHCM,Textile Spinning,Shadman Cotton Mills Limited
+2025-08-28,70.49,71.0,61.75,62.31,213030,2025,8,SHDT,Textile Spinning,Shadab Textile Mills Limited
+2025-08-28,204.0,207.0,200.0,200.0,51219,2025,8,SHEZ,Food and Personal Care Products,Shezan International Limited
+2025-08-28,577.0,582.0,577.0,581.53,7382,2025,8,SHFA,Misc.,Shifa International Hospitals Limited
+2025-08-28,147.48,147.52,120.7,133.38,2375,2025,8,SHJS,Sugar and Allied Industries,Shahtaj Sugar Mills Limited
+2025-08-28,9.9,9.9,9.25,9.88,21251,2025,8,SHNI,Insurance,Shaheen Insurance Company Limited
+2025-08-28,479.75,510.0,462.51,464.76,3438,2025,8,SHSML,Sugar and Allied Industries,Shahmurad Sugar Mills Limited
+2025-08-28,9.56,10.5,9.56,10.02,64054,2025,8,SIBL,Banks/INV. COS/Securities COS.,Security Investment Bank Limited
+2025-08-28,1540.0,1565.0,1530.0,1538.78,1242,2025,8,SIEM,Cable and Electrical Goods,Siemens Pakistan Engineering Co. Limited
+2025-08-28,14.5,14.6,14.0,14.5,35517,2025,8,SINDM,Modrabas,Sindh Modaraba
+2025-08-28,615.0,623.95,605.01,614.95,15369,2025,8,SITC,Chemical,Sitara Chemical Industries Limited
+2025-08-28,11.89,11.89,11.0,11.09,324545,2025,8,SKRS,Sugar and Allied Industries,Sakrand Sugar Mills Limited
+2025-08-28,16.23,16.99,16.23,16.67,3696,2025,8,SLYT,Textile Spinning,Sally Textile Mills Limited
+2025-08-28,25.52,25.97,25.52,25.84,9219,2025,8,SMCPL,Cement,Safe Mix Concrete Limited
+2025-08-28,66.49,66.85,65.0,65.0,10220,2025,8,SML,Sugar and Allied Industries,Shakarganj Limited
+2025-08-28,27.5,27.5,26.5,26.25,255,2025,8,SNAI,Textile Spinning,Sana Industries Limited
+2025-08-28,21.9,21.96,21.41,21.63,1404825,2025,8,SNBL,Commercial Banks,Soneri Bank Limited
+2025-08-28,115.19,116.1,115.0,115.15,1015408,2025,8,SNGP,Oil and Gas Marketing,Sui Northern Gas Pipelines Limited
+2025-08-28,64.0,64.7,61.76,62.57,2446610,2025,8,SPEL,Misc.,Synthetic Products Enterprises Limited
+2025-08-28,17.69,17.75,17.25,17.6,24112,2025,8,SPL,Chemical,Sitara Peroxide Limited
+2025-08-28,12.29,12.29,10.9,11.0,2289757,2025,8,SPWL,Power Generation and Distribution,Saif Power Limited
+2025-08-28,1262.99,1262.99,1233.01,1235.25,125978,2025,8,SRVI,Leather and Tanneries,Service Industries Limited
+2025-08-28,41.99,42.29,40.02,40.15,34631018,2025,8,SSGC,Oil and Gas Marketing,Sui Southern Gas Company Limited
+2025-08-28,15.2,15.27,15.19,15.26,1589,2025,8,SSML,Textile Spinning,Saritow Spinning Mills Limited
+2025-08-28,683.0,710.0,680.0,684.13,23383,2025,8,SSOM,Vanaspati and Allied Industry,S.S. Oil Mills Limited
+2025-08-28,17.01,17.2,17.0,17.16,313529,2025,8,STCL,Grass and Ceramics,Shabbir Tiles and Ceramics Limited
+2025-08-28,75.2,83.0,75.2,76.0,219,2025,8,STJT,Textile Weaving,Shahtaj Textile Mills Limited
+2025-08-28,32.5,35.79,31.14,33.81,25,2025,8,STML,Textile Composite,Shams Textile Mills Limited
+2025-08-28,7.84,7.84,7.6,7.65,752796,2025,8,STPL,Misc.,Siddiqsons Tin Plate Limited
+2025-08-28,152.97,152.97,125.15,138.4,25301,2025,8,SUHJ,JUTE,Suhail Jute Mills Limited
+2025-08-28,127.52,129.9,125.05,128.0,4977,2025,8,SURC,Textile Composite,Suraj Cotton Mills Limited
+2025-08-28,177.9,177.9,171.0,171.79,781,2025,8,SUTM,Textile Spinning,Sunrays Textile Mills Limited
+2025-08-28,136.0,136.4,133.9,134.01,2110820,2025,8,SYS,Technoly and Commnunication,Systems Limited
+2025-08-28,62.9,62.9,55.1,61.8,659,2025,8,SZTM,Textile Spinning,Shahzad Textile Mills Limited
+2025-08-28,209.95,230.14,205.25,214.07,829022,2025,8,TATM,Textile Spinning,Tata Textile Mills Limited
+2025-08-28,17.35,17.7,17.11,17.47,35299,2025,8,TCORP,Sugar and Allied Industries,Tariq Corporation Limited
+2025-08-28,9.48,9.48,8.54,8.51,3,2025,8,TCORPCPS,Sugar and Allied Industries,Tariq Corporation Limited(Pref)
+2025-08-28,8.01,8.17,7.96,8.13,4842760,2025,8,TELE,Technoly and Commnunication,Telecard Limited
+2025-08-28,252.1,253.98,249.98,250.15,29821,2025,8,TGL,Grass and Ceramics,Tariq Glass Industries Limited
+2025-08-28,582.0,589.89,570.01,585.0,3810,2025,8,THALL,Automobile Parts and Accessories,Thal Limited
+2025-08-28,43.68,43.8,43.28,43.49,512860,2025,8,THCCL,Cement,Thatta Cement Company Limited
+2025-08-28,555.02,555.02,554.99,554.99,282,2025,8,TICL,Sugar and Allied Industries,Thal Industries Corporation Limited
+2025-08-28,46.89,49.57,46.25,49.57,12852158,2025,8,TOMCL,Food and Personal Care Products,The Organic Meat Company Limited
+2025-08-28,168.0,173.0,161.02,163.84,61210,2025,8,TOWL,Textile Composite,Towellers Limited
+2025-08-28,8.64,8.64,8.64,8.64,4793415,2025,8,TPL,Technoly and Commnunication,TPL Corp Limited
+2025-08-28,13.65,13.65,13.65,13.65,94610,2025,8,TPLI,Insurance,TPL Insurance Limited
+2025-08-28,10.74,10.81,10.31,10.35,11647711,2025,8,TPLP,Property,TPL Properties Limited
+2025-08-28,8.25,8.34,7.81,7.93,3335889,2025,8,TPLT,Technoly and Commnunication,TPL Trakker Limited
+2025-08-28,23.61,24.01,23.61,23.8,3070159,2025,8,TREET,Food and Personal Care Products,Treet Corporation Limited
+2025-08-28,56.3,58.2,56.05,57.22,6233293,2025,8,TRG,Technoly and Commnunication,TRG Pakistan Limited
+2025-08-28,131.65,131.65,129.1,130.43,20074,2025,8,TRIPF,Misc.,Tri-Pack Films Limited
+2025-08-28,41.22,44.37,40.0,43.26,2106923,2025,8,TRSM,Modrabas,Trust Modarba
+2025-08-28,13.0,14.2,12.99,13.84,207083,2025,8,TSBL,Banks/INV. COS/Securities COS.,Trust Securities and  Brokerage Limited
+2025-08-28,12.98,13.88,11.46,13.45,9515,2025,8,TSMF,Close End Mutual Funds,Tri-Star Mutual Fund Limited
+2025-08-28,186.0,200.0,186.0,199.97,1066,2025,8,TSML,Sugar and Allied Industries,Tandlianwala Sugar Mills Limited
+2025-08-28,9.14,10.1,9.14,10.1,1079060,2025,8,TSPL,Power Generation and Distribution,Tri-Star Power Limited
+2025-08-28,25.0,26.2,24.51,25.96,128516,2025,8,UBDL,Misc.,United Brands Limited
+2025-08-28,380.0,383.98,380.0,381.78,449342,2025,8,UBL,Commercial Banks,United Bank Limited
+2025-08-28,4.5,4.7,4.45,4.61,92434,2025,8,UCAPM,Modrabas,UNICAP Modarba
+2025-08-28,80.6,80.6,78.7,79.62,2566,2025,8,UDPL,Misc.,United Distributors Pakistan Limited
+2025-08-28,15.49,15.5,15.11,15.22,39845,2025,8,UNIC,Insurance,United Insurance Company of Pakistan Limited
+2025-08-28,29.05,29.35,28.25,28.52,3868180,2025,8,UNITY,Food and Personal Care Products,Unity Foods Limited
+2025-08-28,33000.0,33400.0,32500.25,33077.14,124,2025,8,UPFL,Food and Personal Care Products,Unilever Pakistan Foods Limited
+2025-08-28,10.1,11.06,9.51,11.06,1107843,2025,8,UVIC,Insurance,Universal Insurance Company Limited
+2025-08-28,408.9,408.9,396.0,403.94,2765,2025,8,WAHN,Chemical,Wah Noble Chemicals Limited
+2025-08-28,9.0,9.92,8.81,9.79,21681253,2025,8,WAVES,Cable and Electrical Goods,Waves Singer Pakistan Limited
+2025-08-28,1.44,1.46,1.43,1.44,15145923,2025,8,WTL,Technoly and Commnunication,WorldCall Telecom Limited
+2025-08-28,5.53,5.72,5.47,5.64,1552388,2025,8,YOUW,Textile Weaving,Yousuf Weaving Mills Limited
+2025-08-28,73.49,73.49,67.0,68.29,38485,2025,8,ZAHID,Textile Composite,Zahidjee Textile Mills Limited
+2025-08-28,335.99,355.87,335.5,351.64,15501,2025,8,ZIL,Food and Personal Care Products,ZIL Limited
+2025-08-28,18.5,18.5,18.5,17.75,1,2025,8,ZTL,Textile Weaving,Zephyr Textile Limited
