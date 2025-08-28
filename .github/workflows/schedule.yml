@@ -1,12 +1,11 @@
-name: Run job.py daily at 12:10 AM PST
+name: Run job.py daily at 12:10 AM PKT
 
-# 👇 give this workflow permission to push commits
 permissions:
   contents: write
 
 on:
   schedule:
-    - cron: "10 8 * * *"   # 08:10 UTC = 12:10 AM PST
+    - cron: "10 19 * * *"   # 00:10 PKT daily
   workflow_dispatch: {}
 
 jobs:
@@ -16,7 +15,7 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
         with:
-          persist-credentials: true  # default, but explicit is fine
+          persist-credentials: true
 
       - name: Set up Python
         uses: actions/setup-python@v5
