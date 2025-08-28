@@ -18,7 +18,7 @@ TARGET_YEAR, TARGET_MONTH = YESTERDAY.year, YESTERDAY.month
 # ----------------------------
 # Load company list
 # ----------------------------
-list_comp = pd.read_excel("Companies_listed_PSX_Cleaned.xlsx")
+list_comp = pd.read_excel("Companies_listed_PSX_Cleaned.xlsx").head()
 
 # ----------------------------
 # Global session setup
