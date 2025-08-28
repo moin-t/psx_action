@@ -3,7 +3,7 @@ name: Run job.py daily at 12:10 AM PST
 on:
   schedule:
     - cron: "10 8 * * *"   # 08:10 UTC = 12:10 AM PST
-  workflow_dispatch: {}      # allow manual run
+  workflow_dispatch: {}      # manual run
 
 jobs:
   run:
@@ -16,6 +16,10 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
+
+      - name: Install Python dependencies
+        run: |
+          pip install pandas requests beautifulsoup4 lxml openpyxl
 
       - name: Run script
         run: python job.py
