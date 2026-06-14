@@ -1,12 +1,12 @@
-name: Run job.py daily at 12:10 AM PKT (Tue–Sat)
+name: Run job.py daily at 5:00 AM PKT (Tue–Sat)
 
 permissions:
   contents: write
 
 on:
   schedule:
-    # 19:10 UTC Mon–Fri  →  00:10 PKT Tue–Sat
-    - cron: "10 19 * * 1-5"
+    # 00:00 UTC Tue–Sat  →  05:00 PKT Tue–Sat
+    - cron: "0 0 * * 2-6"
   workflow_dispatch: {}
 
 jobs:
