@@ -1,4 +1,4 @@
-# psx_action
+# Psx_action
 Data for Streamlit app: http://pakistanstockexchangeapp.streamlit.app/
 
 
